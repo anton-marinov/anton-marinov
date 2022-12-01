@@ -8,7 +8,6 @@
 - To email: [anton.marinov@polestar.com](mailto:anton.marinov@polestar.com).
 - Mobile `+46 700 51 33 36`.
 </details>
-- 
 
 <!---
 anton-marinov/anton-marinov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
