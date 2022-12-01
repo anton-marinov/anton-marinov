@@ -5,8 +5,13 @@
 <details>
 <summary>📫 How to reach me ...</summary>
 
-- Email: ```anton.marinov@polestar.com```.
-- Mobile ```+46 700 51 33 36```.
+- Email: 
+  ```anton.marinov@polestar.com
+  ```
+- Mobile: 
+  ```
+  +46 700 51 33 36
+  ```
 </details>
 
 <!---
