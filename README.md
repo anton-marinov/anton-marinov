@@ -6,7 +6,8 @@
 <summary>📫 How to reach me ...</summary>
 
 - Email: 
-  ```anton.marinov@polestar.com
+  ```
+  anton.marinov@polestar.com
   ```
 - Mobile: 
   ```
