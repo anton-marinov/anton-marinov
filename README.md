@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anton-marinov
-- 👀 I’m interested in web development.
+- 👀 I’m interested in web development and android.
 - 🌱 I’m currently learning AWS, NodeJS, React, Gateway, DynamoDB, S3. 
 - 💞️ I’m looking to collaborate on app or web applications.
 <details>
